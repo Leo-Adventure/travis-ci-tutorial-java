@@ -1,5 +1,5 @@
 [![Build Status](https://app.travis-ci.com/Leo-Adventure/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/Leo-Adventure/travis-ci-tutorial-java)
-[![Code Coverage](https://codecov.io/github/Leo-Adventure/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/Leo-Adventure/travis-ci-tutorial-java)
+[![Code Coverage](https://codecov.io/github/jco/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/jco/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
